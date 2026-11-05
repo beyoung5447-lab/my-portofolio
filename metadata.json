@@ -1,0 +1,6 @@
+{
+  "name": "메디알람 - 약 검색·처방전·복약알림",
+  "description": "큰 글씨와 직관적인 고대비 UI의 복약 관리 모바일 앱. 약 검색, 알기 쉬운 처방전 설명, 시간대별 복약 알람 제공",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
